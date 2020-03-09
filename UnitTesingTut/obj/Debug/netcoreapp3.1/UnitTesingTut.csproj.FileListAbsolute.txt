@@ -1,0 +1,11 @@
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\bin\Debug\netcoreapp3.1\UnitTesingTut.exe
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\bin\Debug\netcoreapp3.1\UnitTesingTut.deps.json
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\bin\Debug\netcoreapp3.1\UnitTesingTut.runtimeconfig.json
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\bin\Debug\netcoreapp3.1\UnitTesingTut.runtimeconfig.dev.json
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\bin\Debug\netcoreapp3.1\UnitTesingTut.dll
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\bin\Debug\netcoreapp3.1\UnitTesingTut.pdb
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\obj\Debug\netcoreapp3.1\UnitTesingTut.csprojAssemblyReference.cache
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\obj\Debug\netcoreapp3.1\UnitTesingTut.AssemblyInfoInputs.cache
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\obj\Debug\netcoreapp3.1\UnitTesingTut.AssemblyInfo.cs
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\obj\Debug\netcoreapp3.1\UnitTesingTut.dll
+C:\Users\haitham\source\repos\UnitTesingTut\UnitTesingTut\obj\Debug\netcoreapp3.1\UnitTesingTut.pdb

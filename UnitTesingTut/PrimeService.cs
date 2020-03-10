@@ -8,8 +8,16 @@ namespace UnitTesingTut
     {
         public bool IsPrime(int num)
         {
-            if(num == 2) return false;
-            throw new NotImplementedException("Not Implemented");
+            if(num < 2) return false;
+
+            for(var divisor=2;divisor<=Math.Sqrt(num); divisor++)
+            {
+                if(num % divisor == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
         }
     }
 }

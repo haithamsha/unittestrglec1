@@ -27,9 +27,23 @@ namespace UnitTesting.Tests
         public void IsPrime_inputLessThan2_returnFalse(int value)
         {
             // test -1, 0, 1
-            var result = _primeService.IsPrime(1);
+            var result = _primeService.IsPrime(value);
 
             Assert.False(result, $"{value} should not be prime");
+        }
+
+
+        [Theory]
+        [InlineData(2)]
+        [InlineData(3)]
+        [InlineData(5)]
+        [InlineData(7)]
+        public void IsPrime_inputMoreThan2_returnTrue(int value)
+        {
+            // test 
+            var result = _primeService.IsPrime(value);
+
+            Assert.True(result, $"{value} should be prime");
         }
     }
 }
